@@ -1,6 +1,3 @@
-# 💫 About Me:
-🔭 Currently, I'm into dynamic programming, data modeling, and analytics—focusing on solving complex problems with efficient algorithms and data-driven insights.<br>👯  I'm eager to collaborate on projects that push the boundaries of predictive modeling and scalable data solutions.<br>🌱My current learning journey includes advanced algorithms and cloud infrastructure with AWS, where I'm exploring innovative approaches to modern data challenges..<br>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subrat-dash-825a29276/) 
