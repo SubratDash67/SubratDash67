@@ -1,7 +1,7 @@
-#  Welcome to my GitHub! 
+# Welcome to my GitHub!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subrat-dash-825a29276/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SubratDash67)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%231b5e20.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/subrat_dash_/)
 
 ---
 
@@ -45,11 +45,19 @@
 
 ---
 
-## 🏆 GitHub Trophies:
+## 🏆 GitHub Trophies (where I have a C or above):
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SubratDash67&theme=onedark&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SubratDash67&theme=onedark&no-frame=false&no-bg=true&margin-w=4&rank=C,B,A,AA,S,SS" alt="GitHub Trophies" />
 </p>
 
+---
 
+## 📈 Profile Views:
+  
+![Profile Views](https://komarev.com/ghpvc/?username=SubratDash67&style=for-the-badge)
 
+---
+
+## 💬 Get In Touch:
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/subrat-dash-825a29276/)
