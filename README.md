@@ -45,7 +45,7 @@
 
 ---
 
-## 🏆 GitHub Trophies (where I have a C or above):
+## 🏆 GitHub Trophies:
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SubratDash67&theme=onedark&no-frame=false&no-bg=true&margin-w=4&rank=C,B,A,AA,S,SS" alt="GitHub Trophies" />
@@ -53,11 +53,3 @@
 
 ---
 
-## 📈 Profile Views:
-  
-![Profile Views](https://komarev.com/ghpvc/?username=SubratDash67&style=for-the-badge)
-
----
-
-## 💬 Get In Touch:
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/subrat-dash-825a29276/)
