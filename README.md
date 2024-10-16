@@ -1,6 +1,4 @@
-# 👋 Hi, I'm Subrat Dash
-
-I'm a passionate software developer with expertise in multiple programming languages and frameworks. I love working on challenging projects and constantly learning new technologies.
+#  Welcome to my GitHub! 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subrat-dash-825a29276/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SubratDash67)
@@ -53,14 +51,5 @@ I'm a passionate software developer with expertise in multiple programming langu
   <img src="https://github-profile-trophy.vercel.app/?username=SubratDash67&theme=onedark&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
----
 
-## 📈 Profile Views:
-  
-![Profile Views](https://komarev.com/ghpvc/?username=SubratDash67&style=for-the-badge)
-
----
-
-## 💬 Get In Touch:
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/subrat-dash-825a29276/)
 
