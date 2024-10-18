@@ -17,6 +17,8 @@
 ![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white)
+
 
 ### Data Science & ML
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)
@@ -26,20 +28,26 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 
-### Cloud & Tools
+### Version Control
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+
+### Other Tools
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+
 
 ---
 
 ## 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SubratDash67&theme=react&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubratDash67&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=SubratDash67&theme=react&hide_border=false&include_all_commits=false&count_private=true&card_width=400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubratDash67&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact&card_width=400" alt="Top Languages" />
 </p>
+
 
 ---
 
