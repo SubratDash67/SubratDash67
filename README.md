@@ -33,14 +33,14 @@
 
 ---
 
-## GitHub Stats:
+## 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SubratDash67&show_icons=true&theme=react&hide_border=false&include_all_commits=true&count_private=true&hide=stars,issues,contribs" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SubratDash67&theme=react&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubratDash67&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubratDash67&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
+  <br />
 </p>
-
 ---
 
 ## 🏆 GitHub Trophies:
