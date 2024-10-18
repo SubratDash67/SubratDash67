@@ -38,8 +38,6 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 
----
-
 ## 📊 GitHub Stats:
 
 <p align="left">
@@ -48,7 +46,6 @@
 </p>
 
 
----
 
 ## 🏆 GitHub Trophies:
 
