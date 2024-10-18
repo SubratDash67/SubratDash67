@@ -1,5 +1,3 @@
-![Header](https://github.com/SubratDash67/Test-3/blob/main/github-header-image.png)
-
 # Welcome to my GitHub!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subrat-dash-825a29276/)
