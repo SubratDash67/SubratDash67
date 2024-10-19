@@ -41,7 +41,7 @@
 ## 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SubratDash67&theme=react&hide_border=false&include_all_commits=false&count_private=true&card_width=450" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=SubratDash67&theme=react&hide_border=false&include_all_commits=true&count_private=true&card_width=450" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubratDash67&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact&card_width=450" alt="Top Languages" />
 </p>
 
